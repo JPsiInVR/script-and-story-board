@@ -3,6 +3,9 @@
 ## First Scene
 
 ### Inside PNN news room
+
+*(News intro: "This is PNN Breaking News")*
+
 **Particle**: The series of electron and positron thefts at the central lepton storage room seems to continue. In a recently released statment, the Baryon family reached out to the thief. The statement emphasizes again that the youngest members of the Baryon family, Penelope Proton and Norman Neutron, are in desparate need for electrons to build their atoms.
 
 *(Transition to lepton storage room)*
@@ -40,7 +43,8 @@ And I can assure you this feeling is mutual. The Baryons condemn us for getting 
 *(flashback of Kaon arrest by __PNN__ (Particle News Network))*
 
 ### Inside PNN news room
-**Particle**: ...
+**Particle**: Good evening ladies and gentleman. Welcome to our Breaking news special, where we keep you up to date about everything important that is happening in these turbulent times.
+We were informed that, right now, the particle police is arresting the Kaon. It is being accused of direct CP-violation and there is strong evidence, that the Kaon is one of the particles responsible for this criminal act.
 
 
 ### Inside lepton storage room
