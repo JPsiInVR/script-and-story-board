@@ -1,5 +1,8 @@
 # Story line
 
+## Historical context
+* The story takes place in the year 1974, where the J/&psi; particle was discovered as part of the November revolution in particle physics. Hence the story line in the particle world picks up the revolution theme, in the sense of an overthrow of a social order, in favour of a new system. Here, the Mesons act as the revolutionaries from the middle class. They want to challenge the Baryons, which are part of the bourgeois (similar to the french revolution, but less violent). 
+
 ## Scene 1 - J/&psi; introduces itself
 * breaking news: theft of electrons ans positrons has been reported; "unknown particle is stealing innocent electrons and positrons from central lepton storage"
 * lepton storage room: 
