@@ -6,7 +6,7 @@ The story takes place in the year 1974, where the J/&psi; particle was discovere
 ## Teaser sequence
 *In a world where baryons are controlling the masses, one particle is about to change it all. 
 It is the leader of a new generation of heavy mesons.
-And it is going to challenge the standards of particle physics as they were known in 1974. 
+This new generation is going to challenge the standards of particle physics as they were known in 1974. 
 The J/&psi; emerges as the answer to the severe R-crisis and leads scientists into the November revolution.*
 
 ## Scene 1 - J/&psi; introduces itself
