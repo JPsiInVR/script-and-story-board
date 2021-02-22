@@ -2,11 +2,11 @@
 
 ## First Scene
 
-### Inside PNN news room
+### Inside PNN newsroom
 
 *(News intro: "This is PNN Breaking News")*
 
-**Particle**: The series of electron and positron thefts at the central lepton storage room seems to continue. In a recently released statment, the Baryon family reached out to the thief. The statement emphasizes again that the youngest members of the Baryon family, Penelope Proton and Norman Neutron, are in desparate need for electrons to build their atoms.
+**Particle**: The series of electron and positron thefts at the central lepton storage room seems to continue. In a recently released statement, the Baryon family reached out to the thief. The statement emphasizes again that the youngest members of the Baryon family, Penelope Proton and Norman Neutron, are in desperate need of electrons to build their atoms.
 
 *(Transition to lepton storage room)*
 
@@ -18,7 +18,7 @@
 
 *(particle turns to the viewer)*
 
-**J/&psi;:** Hi, hi you! I'm on the run, so we have to keep it quiet, okay? I would like to introduce myself: My name is J/&psi; and I'm a particle.
+**J/&psi;:** Hi, hi you! I'm on the run, so we have to keep it quiet, okay? I would like to introduce myself to you: My name is J/&psi; and I'm a particle. 
 What! You never heard of me? Well, I don't even know where to start in that case.
 Let's talk about the particle part again. You must think of a particle as a tiny amount of matter. However not in the sense of for example a particle of dust, but even smaller. And there is a ton of us! You maybe already heard of Penelope Proton and the Norman Neutron.
 
@@ -42,7 +42,7 @@ And I can assure you this feeling is mutual. The Baryons condemn us for getting 
 
 *(flashback of Kaon arrest by __PNN__ (Particle News Network))*
 
-### Inside PNN news room
+### Inside PNN newsroom
 **Particle**: Good evening ladies and gentleman. Welcome to our Breaking news special, where we keep you up to date about everything important that is happening in these turbulent times.
 We were informed that, right now, the particle police is arresting the Kaon. It is being accused of direct CP-violation and there is strong evidence, that the Kaon is one of the particles responsible for this criminal act.
 
