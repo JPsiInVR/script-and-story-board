@@ -25,7 +25,7 @@ Let's talk about the particle part again. You must think of a particle as a tiny
 
 *(proton and neutron appear on screen)*
 
-In fact, all the matter that surrounds you, every atom is made up of protons, neutrons and electrons. I'm sure you heard of the hydrogen atom yet, right. It consists of one proton and one electron! You see, you do know something about particles. 
+In fact, all the matter that surrounds you, every atom is made up of protons, neutrons and electrons. I'm sure you heard of the hydrogen atom yet, right? It consists of one proton and one electron! You see, you do know something about particles. 
 
 **J/&psi;:** Now you might think: "They make up all the matter that surrounds me? But I can't see any particles!"
  Well, that is because they are so tiny that you can't possibly see them with the human eye. They are even smaller than dust particles. And on top of that, if you take the proton and the neutron, they consist of even smaller constituents which are referred to as quarks. 
