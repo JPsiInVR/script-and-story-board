@@ -25,10 +25,10 @@ Let's talk about the particle part again. You must think of a particle as a tiny
 
 *(proton and neutron appear on screen)*
 
-In fact, all the matter that surrounds you, every atom is made up of protons, neutrons and electrons. I'm sure you've already heard of the hydrogen atom, right? It consists of one proton and one electron! You see, you do know something about particles. 
+All the matter that surrounds you, every atom is made up of protons, neutrons and electrons. I'm sure you've already heard of the hydrogen atom, right? It consists of one proton and one electron! You see, you do know something about particles. 
 
 **J/&psi;:** Now you might think: "They make up all the matter that surrounds me? But I can't see any particles!"
- Well, that is because they are so tiny that you can't possibly see them with bare eye. They are even smaller than dust particles. And on top of that, if you take the proton and the neutron, they consist of even smaller constituents which are referred to as quarks. 
+ Well, that is because they are so tiny that you can't possibly see them with the bare eye. They are even smaller than dust particles. And on top of that, if you take the proton and the neutron, they consist of even smaller constituents which are referred to as quarks. 
 
 *(quarks appear on screen)*
 
@@ -41,13 +41,13 @@ In fact, all the matter that surrounds you, every atom is made up of protons, ne
 
 *(highlight charm and strange quarks)*
 
-**J/&psi;:** There are also top and bottom quarks and the quark mass increases with every generation. It is similar in the case of the leptons. The electron has two other relatives, that are exact copies in most of its characteristics, but with increasing mass. So the third generation lepton is heavier than the second generation lepton that is heavier than the first generation lepton. This mass hierarchy however is not apparent in the three other leptons, called neutrinos. They seem to be massless and practically invisible. The quarks and leptons are elementary particles, that means we can build a ton of other particles with them, like the proton and neutron and even me! Let's have a closer look at that: 
+**J/&psi;:** There are also top and bottom quarks and the quark mass increases with every generation. It is similar in the case of the leptons. The electron has two other relatives, that are exact copies in most of its characteristics, but with increasing mass. So the third generation lepton is heavier than the second generation lepton that is heavier than the first generation lepton. This mass hierarchy however is not apparent in the three other leptons, called neutrinos. They seem to be massless and practically invisible. The quarks and leptons are elementary particles, which means we can build a ton of other particles with them, like the proton and neutron and even me! Let's have a closer look at that: 
 
-*(somekind of zoom-in/animation inside the proton and neutron ?)*
+*(some kind of zoom-in/animation inside the proton and neutron ?)*
 
 You now know that proton and neutron are built by up- and down-quarks. And their quark content also helps us to differentiate between those two particles. The proton has two up-quarks and one down-quark. For the neutron, it's just the other way around. It consists of two up-quarks and one down-quark.
 So, now you understand how Penelope and Norman are formed.
-In comparison to Penelope and Norman, I only consist of two of quarks, namely the charm quarks.
+In comparison to Penelope and Norman, I only consist of two quarks, namely the charm quarks.
 This is common to all members of my family. In the Meson family, every particle consists of two quarks. All particles that consist of three quarks however are called baryons. And do you know how many baryons and mesons there are? A lot, in fact, there are so many that a whole zoo of particles exist!
 
 *(some kind of zoo illustration with particles :D )*
