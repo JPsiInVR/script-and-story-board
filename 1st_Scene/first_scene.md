@@ -41,9 +41,14 @@ In fact, all the matter that surrounds you, every atom is made up of protons, ne
 
 *(highlight charm and strange quarks)*
 
-**J/&psi;:** There are also top and bottom quarks and the quark mass increases with every generation. It is similar in the case of the leptons. The electron has two other relatives, that are exact copies in most of its characteristics, but with increasing mass. So the third generation lepton is heavier than the second generation lepton that is heavier than the first generation lepton. This mass hierarchy however is not apparent in the three other leptons, called neutrinos. They seem to be massless and practically invisible. The quarks and leptons are elementary particles, that means we can build a ton of other particles with them, like the proton and neutron and me! 
-In comparison to Penelope and Norman, I only consist of two of those charm quarks, not three. *->EDIT NOTE: More info needed: Start by talking about proton and neutron and their exact quark content and then move on the J/Psi. Afterwards, generalize to all mesons and baryons.*
-This is common to all members of the Meson family. All particles that consist of three quarks however are called baryons. And do you know how many baryons and mesons there are? A lot, in fact, there are so many that a whole zoo of particles exist!
+**J/&psi;:** There are also top and bottom quarks and the quark mass increases with every generation. It is similar in the case of the leptons. The electron has two other relatives, that are exact copies in most of its characteristics, but with increasing mass. So the third generation lepton is heavier than the second generation lepton that is heavier than the first generation lepton. This mass hierarchy however is not apparent in the three other leptons, called neutrinos. They seem to be massless and practically invisible. The quarks and leptons are elementary particles, that means we can build a ton of other particles with them, like the proton and neutron and even me! Let's have a closer look at that: 
+
+*(somekind of zoom-in/animation inside the proton and neutron ?)*
+
+You now know that proton and neutron are built by up- and down-quarks. And their quark content also helps us to differentiate between those two particles. The proton has two up-quarks and one down-quark. For the neutron, it's just the other way around. It consists of two up-quarks and one down-quark.
+So, now you understand how Penelope and Norman are formed.
+In comparison to Penelope and Norman, I only consist of two of quarks, namely the charm quarks.
+This is common to all members of my family. In the Meson family, every particle consists of two quarks. All particles that consist of three quarks however are called baryons. And do you know how many baryons and mesons there are? A lot, in fact, there are so many that a whole zoo of particles exist!
 
 *(some kind of zoo illustration with particles :D )*
 
