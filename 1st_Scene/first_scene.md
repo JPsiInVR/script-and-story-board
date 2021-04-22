@@ -52,7 +52,7 @@ This is common to all members of my family. In the Meson family, every particle 
 
 *(some kind of zoo illustration with particles :D )*
 
-**J/&psi;:** "But how do we know", you ask yourself? "How we know that there exist particles when we can't even see those particles?"
+**J/&psi;:** "But how do we know", you ask yourself? "How do we know that there exist particles when we can't even see those particles?"
 Well, there are ways to make them visible. Take this bubble chamber for example. 
 
 *(some kind of bubble chamber illustration)*
