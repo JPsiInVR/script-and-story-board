@@ -16,7 +16,7 @@
 
 ### Part 2: Inside the lepton storage room
 
-#### Section 1: Introduction
+#### Section 1: Menu lobby 
 
 *(positron and electron annihilate, flash, particle appears out of nowhere; particle looks around cautiously)*
 
@@ -28,26 +28,29 @@
 What! You never heard of me? Well, I don't even know where to start in that case. 
 Let me give you a short explanation of how my world works. 
 
-*(explanation of different sections, where to click, etc.)*
+If you want to select an item in the particle world simply direct you view at it. It will start pulsating and the selected action will be carried out. To exit the VR-Adventure, keep an eye on our exit particle. It will accompany you throughout this experience. 
 
 Now if you are wondering what a particle is, and what this adventure is all about, then click right here.
 
 *(The next sections provide short explanations of one aspect of the particle world and will be individually accessible for the viewer.)*
 
 #### Section 2: Particles
-Hello again! Let's talk about elementary particles. You must think of a particle as a tiny amount of matter. However not in the sense of for example a particle of dust, but even smaller. 
+
+Hello again! Let's learn about elementary particles, together!
+You must think of a particle as a tiny amount of matter. However not in the sense of for example a particle of dust, but even smaller. 
+Do you find this hard to imagine? Well, let's have a closer look. 
 
 *(show a zoom-in of daily life, small matter (dust particle, hair, etc. into the atomic scale. Zoom stops at the atomic nucleus.)*
 
-And there is a ton of us! You maybe already heard of Penelope Proton and the Norman Neutron. 
+You are certainly familiar with the matter that surrounds us. That includes ourselves, as well as everyday objects like a table or cup of coffee. All of these consists of small building blocks, we call them molecules. When you combine several molecules you can build massive objects as well as liquids and of course gas. But these molecules are not the smallest part of matter that surrounds us. Because molecules themselves are built by atoms. To form a molecule you can bind together different atoms. Here you see the caffeine molecule, which is built from 4 different kinds of atoms. The term atom originates in the Greek word átomos which can be translated to indivisible. Implying that atoms would be the smallest and therefore elementary particles that all matter consists of. But today we know that this is not true. 
+Atoms themselves are not elementary. They consist of a nucleus that builds the core of the atom. This nucleus itself is surrounded by electrons. For the sake of simplicity, you can imagine that electrons orbit the nucleus just like, planets orbit the sun. 
+In reality, however, it's far more complicated. It's impossible to follow the trajectory of the electron and to know exactly when it will be where. To describe this uncertainty one can only specify a probability of where the electron could be. There are positions in space where the probability is higher to find an electron and positions where the probability is very low and it would be very unlikely to find an electron.
+The electron by the way is indeed indivisible and hence is referred to as an elementary particle. But what about the nucleus? Is it elementary, too? 
 
-*(proton and neutron appear on screen)*
+Well, as you might have guessed, it's not! The nucleus again is built from smaller particles: the nucleons. And we know that two different types of nucleons exist: You maybe already heard of Penelope the Proton and the Norman the Neutron.
+(proton and neutron appear on screen)
+But if we want to learn more about the truly elementary particles, we have to take a closer look at the proton and the neutron again. To find out what these two are made of, check out the next section. 
 
-All the matter that surrounds you, every atom is made up of protons, neutrons and electrons. I'm sure you've already heard of the hydrogen atom, right? 
-
-*(Show hydrogen atom animation from part 1.)*
-
-It consists of one proton and one electron! You see, you do know something about particles. But if we want to learn about the truly elementary particles, we have to take a closer look at the nucleons, the proton and the neutron again. To find out what these two are made up of check out the next section. 
 
 #### Section 3: Quarks
 
