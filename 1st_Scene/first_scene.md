@@ -16,7 +16,7 @@
 
 ### Part 2: Inside the lepton storage room
 
-#### Section 1: Menu lobby 
+#### Section 1: Introduction
 
 *(positron and electron annihilate, flash, particle appears out of nowhere; particle looks around cautiously)*
 
@@ -26,13 +26,7 @@
 
 **J/&psi;:** Hi, hi you! I'm on the run, so we have to keep it quiet, okay? I would like to introduce myself to you: My name is J/&psi; and I'm a particle. 
 What! You never heard of me? Well, I don't even know where to start in that case. 
-Let me give you a short explanation of how my world works. 
-
-If you want to select an item in the particle world simply direct you view at it. It will start pulsating and the selected action will be carried out. To exit the VR-Adventure, keep an eye on our exit particle. It will accompany you throughout this experience. 
-
-Now if you are wondering what a particle is, and what this adventure is all about, then click right here.
-
-*(The next sections provide short explanations of one aspect of the particle world and will be individually accessible for the viewer.)*
+Let me show you how my world works. 
 
 #### Section 2: Particles
 
@@ -49,7 +43,7 @@ The electron by the way is indeed indivisible and hence is referred to as an ele
 
 Well, as you might have guessed, it's not! The nucleus again is built from smaller particles: the nucleons. And we know that two different types of nucleons exist: You maybe already heard of Penelope the Proton and the Norman the Neutron.
 (proton and neutron appear on screen)
-But if we want to learn more about the truly elementary particles, we have to take a closer look at the proton and the neutron again. To find out what these two are made of, check out the next section. 
+But if we want to learn more about the truly elementary particles, we have to take a closer look at the proton and the neutron again. 
 
 
 #### Section 3: Quarks
@@ -69,7 +63,7 @@ Let's have the Up-quark explain this to us in more detail.
 *(highlight down quark)*
 
 **J/&psi;:** Yes, these two are the quarks Penelope and Norman are made up of. Thanks for helping me out 'Up'!
-I am also built by quarks, but they belong to the second generation of quarks. Carry on to the next section, to learn about all the other quarks that exist!
+I am also built by quarks, but they belong to the second generation of quarks. 
 
 #### Section 4 Higher generation Quarks and Leptons
 
@@ -77,8 +71,7 @@ So, let's have a look at the second generation of quarks. It consists of the qua
 
 *(highlight charm and strange quarks)*
 
-**J/&psi;:** There are also top and bottom quarks and the quark mass increases with every generation. It is similar in the case of a second particle family, the leptons. One of its members you already know: the electron. The electron has two other relatives, that are exact copies in most of its characteristics, but with increasing mass. So the third generation lepton is heavier than the second generation lepton that is heavier than the first generation lepton. This mass hierarchy however is not apparent in the three other leptons, called neutrinos. They seem to be massless and practically undetectable. The quarks and leptons are elementary particles, which means we can build a ton of other particles with them, like the proton and neutron and even me! Let's have a closer look at that in the next section!
-
+**J/&psi;:** There are also top and bottom quarks and the quark mass increases with every generation. It is similar in the case of a second particle family, the leptons. One of its members you already know: the electron. The electron has two other relatives, that are exact copies in most of its characteristics, but with increasing mass. So the third generation lepton is heavier than the second generation lepton that is heavier than the first generation lepton. This mass hierarchy however is not apparent in the three other leptons, called neutrinos. They seem to be massless and practically undetectable. The quarks and leptons are elementary particles, which means we can build a ton of other particles with them, like the proton and neutron and even me! 
 #### Section 5 Mesons and Baryons
 
 *(some kind of zoom-in/animation inside the proton and neutron ?)*
