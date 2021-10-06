@@ -30,20 +30,14 @@ Let me show you how my world works.
 
 #### Section 2: Particles
 
-Hello again! Let's learn about elementary particles, together!
-You must think of a particle as a tiny amount of matter. However not in the sense of for example a particle of dust, but even smaller. 
+You must think of a particle as a tiny amount of matter. Not like a particle of dust, but even smaller. 
 Do you find this hard to imagine? Well, let's have a closer look. 
+You are certainly familiar with the matter that surrounds us. That includes ourselves, as well as everyday objects like a table or cup of coffee. These objects consist of small building blocks, we call them molecules. When you combine several molecules you can build solid objects as well as liquids and of course gas. However, these molecules are not the smallest part of matter in our world! 
+A long time ago, we discovered that molecules themselves are built of atoms. To form a molecule you can bind together different atoms. Here you see the caffeine molecule, which is built from 4 different kinds of atoms. The term atom originates in the Greek word átomos. Atomos can be translated to indivisible and the term was used to imply that atoms are the smallest particles that all matter consists of. Today we know that this is not true: atoms are not elementary particles. The term elementary particles describes the most fundamental building blocks of matter that cannot be further separated into sub-blocks.
+Atoms consist of a nucleus at their center. This nucleus is surrounded by electrons. For the sake of simplicity, you can imagine that electrons orbit the nucleus just like planets orbit the sun. 
 
-*(show a zoom-in of daily life, small matter (dust particle, hair, etc. into the atomic scale. Zoom stops at the atomic nucleus.)*
-
-You are certainly familiar with the matter that surrounds us. That includes ourselves, as well as everyday objects like a table or cup of coffee. All of these consists of small building blocks, we call them molecules. When you combine several molecules you can build massive objects as well as liquids and of course gas. But these molecules are not the smallest part of matter that surrounds us. Because molecules themselves are built by atoms. To form a molecule you can bind together different atoms. Here you see the caffeine molecule, which is built from 4 different kinds of atoms. The term atom originates in the Greek word átomos which can be translated to indivisible. Implying that atoms would be the smallest and therefore elementary particles that all matter consists of. But today we know that this is not true. 
-Atoms themselves are not elementary. They consist of a nucleus that builds the core of the atom. This nucleus itself is surrounded by electrons. For the sake of simplicity, you can imagine that electrons orbit the nucleus just like, planets orbit the sun. 
-In reality, however, it's far more complicated. It's impossible to follow the trajectory of the electron and to know exactly when it will be where. To describe this uncertainty one can only specify a probability of where the electron could be. There are positions in space where the probability is higher to find an electron and positions where the probability is very low and it would be very unlikely to find an electron.
-The electron by the way is indeed indivisible and hence is referred to as an elementary particle. But what about the nucleus? Is it elementary, too? 
-
-Well, as you might have guessed, it's not! The nucleus again is built from smaller particles: the nucleons. And we know that two different types of nucleons exist: You maybe already heard of Penelope the Proton and the Norman the Neutron.
-(proton and neutron appear on screen)
-But if we want to learn more about the truly elementary particles, we have to take a closer look at the proton and the neutron again. 
+In reality, however, it's far more complicated. It's impossible to follow the path of the electron and to know exactly when it will be where. To describe this uncertainty we can only specify a probability of where the electron could be. There are positions in space where the probability is higher to find an electron and positions where the probability is very low. It would be very unlikely to find an electron in those regions.
+The electron by the way is indeed indivisible and cannot be broken down further. Hence it is referred to as an elementary particle. But what about the nucleus? Is it elementary, too? Well, as you might have guessed, it's not! The nucleus again is built from smaller particles: the nucleons. And we know that two different types of nucleons exist: You maybe already heard of protons and neutrons! To make it even more complicated, neither the proton nor the neutron is an elementary particle. That means we have to dig deeper and take a look at the inner structure of the nuclei.
 
 
 #### Section 3: Quarks
