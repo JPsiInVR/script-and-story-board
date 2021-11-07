@@ -6,16 +6,16 @@
 
 
 
-The camera enters the physicist's office.
-Focuses on physicists desk
-The viewer sees a physicist from behind bend over several documents. (Experiment, Detector)
-The viewer can select a document that starts an explanation of the basic components of a particle physics experiment.
+The viewer enters a door to a physicist's office at SLAC (Stanford Linear Accelerator Center). You hear chattering of his colleagues and telephone calls/a telephone ringing. 
+The camera focuses on a physicists desk.
+There's a physicist bend over several documents titled "SPEAR Accelerator", "MARK I & II Detectors", ..
+
+**Physicist:** Welcome to the Stanford Linear Accelerator Centre!. Here, we study particle physics by conducting different experiments. Let me explain to you how we are looking for new particles at this place.
 
 
+_The viewer can select a document (section) that starts an explanation of the basic components of the particle physics experiment at SLAC.
+_
 
-Welcome to the Stanford Linear Accelerator Centre (SLAC). Her, we study particle physics by conducting different experiments.
-
-(Selection of sections 1 and 2.)
 
 ### Section 1: How does a particle physics experiment look?
 
