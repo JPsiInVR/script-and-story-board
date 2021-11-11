@@ -25,7 +25,7 @@ So to recap, at SLAC, we have a particle collider in which electrons are being a
 
 
 
-### Section 2: MARK I & II Particle Detectors
+### Section 2: MARK I Particle Detector
 
 _(source: Nobel Lecture Burton Richter)_
 
@@ -45,6 +45,6 @@ They usually consist of several layers of different materials to detect differen
 
 Let’s have a look at our particle detectors at the SPEAR accelerator. 
 
-We have the detectors MARK I and MARK II.
+We have the detectors MARK I.
 
 
