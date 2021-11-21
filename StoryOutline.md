@@ -30,7 +30,6 @@ Please see **Trailer/** for a script and story board of the trailer.
     * electrons and positrons accelerated
     * annihilation of particle/antiparticle
     * formation of new particles
-* telephone call from BNL: "We've got a hint"
 
 
 ## Scene 3 - Beryllium mansion
