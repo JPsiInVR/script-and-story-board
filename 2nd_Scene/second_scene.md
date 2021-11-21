@@ -22,9 +22,9 @@ _The viewer can select a document (section) that starts an explanation of the ba
 If you want to reach even higher velocities you have to work with a particle storage ring, also called a particle collider. Here, the particles are entered into a ring and they can pass through the accelerator track several times while gaining velocity and energy with every turn. This is the kind of accelerator that SPEAR represents at SLAC. It stands for Stanford Positron Electron Asymmetric Ring. Judging by the name you can already guess that it was used to accelerate and eventually collide electrons and positrons. However, the asymmetry part is just a historic reference and we can neglect it for now. 
 
 So to recap, at SLAC, we have a particle collider in which electrons are being accelerated in one direction of the ring and the positrons are accelerated in the other direction in form of particle beams. Whilst being accelerated electrons and positions are separated from each other until they reach a certain velocity and energy. At this energy, the two particle beams are brought together at the so-called interactions points. 
-But what exactly happens when you collide electrons and positrons? Well, if you collide a particle with its antiparticle they annihilate. That means, both particles dissapear and mass and velocity is translated into energy. This released energy is the starting point for the production of new particles. 
+But what exactly happens when you collide electrons and positrons? Well, if you collide a particle with its antiparticle they annihilate. That means, both particles disappear and mass and velocity are translated into energy. This released energy is the starting point for the production of new particles. 
 
-And this is basically the point of having particle accelerators. We shoot particle onto each other in the hope to create different and maybe even new, and yet undiscovered particles. But to examine what kind of particles are createt we really have to look closely at the interaction point. 
+And this is the whole point of having particle accelerators. We shoot particles onto each other in the hope to create different and maybe even new, and yet undiscovered particles. But to examine what kind of particles are created we have to look closely at the interaction point. 
 SPEAR offers two such points along its circumference. Each of these points is used for a different experiment and offers different particle detectors to observe what happens after the beam collision.
 
 
@@ -46,8 +46,7 @@ Now you probably ask yourself how we find out all of this information about the 
 You can think of detectors as huge devices that by the interaction of their matter with particles can figure out their properties.
 They usually consist of several layers of different materials to detect different kinds of particles.
 
-Let’s have a look at our particle detectors at the SPEAR accelerator. 
+Let’s have a look at one of our particle detectors at the SPEAR accelerator: The MARK I detector. 
 
-We have the detectors MARK I.
 
 
