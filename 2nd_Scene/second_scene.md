@@ -7,7 +7,7 @@
 
 _The viewer enters a door to a physicist's office at SLAC (Stanford Linear Accelerator Center). You hear the chattering of his colleagues and telephone calls/a telephone ringing. 
 The camera focuses on a physicists desk.
-There's a physicist bend over several documents titled "SPEAR Accelerator", "MARK I & II Detectors", .._
+There's a physicist bend over two documents titled "SPEAR Accelerator" and "MARK I Detectors"_
 
 **Physicist:** Welcome to the Stanford Linear Accelerator Centre! Here, we study particle physics by conducting different experiments. Let me explain to you how we are looking for new particles at this place.
 
