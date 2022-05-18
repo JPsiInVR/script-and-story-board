@@ -20,6 +20,7 @@ Please see **Trailer/** for a script and story board of the trailer.
 * flashback - breaking news: Kaon arrested for CP-violation
 * lepton storage room: J/&psi; disappears in flash of light
 
+
 ## Scene 2 - SPEAR
 * point of view physicist: desk with papers on detector and accelerator at Stanford
 * focus on detector paper: change of scene to detector
@@ -43,12 +44,9 @@ Please see **Trailer/** for a script and story board of the trailer.
 * breaking news: J/&psi; now wanted for theft of electrons and positrons and because of sabotage/causing a massive clash at beryllium mansion
 
 
-## Scene 4 - BNL
-* detector setup at BNL
-* data aquisition and analysis displayed
-
-## Scene 5 - Stanford
+## Scene 4 - Stanford
 * control room
    * change beam energy
    * histogram of hit rate
 * particle world: breaking news "J/&psi; arrested by police!"
+* "J/&psi; also detected at BNL
